@@ -1,4 +1,4 @@
-# MeetupDec2020
+# z Data and AI Meetups
 
 Accelerate Journey to AI on IBM LinuxOne. CP4D Meetup.
 
